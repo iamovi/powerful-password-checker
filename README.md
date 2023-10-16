@@ -22,9 +22,9 @@ The MIT License is a permissive open-source license that allows you to use, modi
 
 To use this script, follow these steps:
 
-1. Clone the repository to your local machine.
+1. Clone the repository to your local machine or download code files as zip then extract and open with a code editor.
 2. Install Python if you haven't already.
-3. Run the script by providing the passwords you want to check as command-line arguments. For example:
+3. Run the script by providing the passwords you want to check as command-line arguments. (run it on terminal/powershell/bash/cmd) as your wish! For example:
 
    ```bash
    python check_me.py password1 password2y6546
