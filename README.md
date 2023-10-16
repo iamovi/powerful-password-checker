@@ -28,3 +28,5 @@ To use this script, follow these steps:
 
    ```bash
    python check_me.py password1 password2y6546
+
+![Alt Text](https://github.com/iamovi/powerful-password-checker/blob/main/check_me.png)
