@@ -8,7 +8,7 @@ The script allows you to check whether a password has been found in a data breac
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE.txt](LICENSE.txt) file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 The MIT License is a permissive open-source license that allows you to use, modify, and distribute this software for both commercial and non-commercial purposes. You can find more information about the MIT License in the [LICENSE](LICENSE) file.
 
