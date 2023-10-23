@@ -10,7 +10,7 @@ The script allows you to check whether a password has been found in a data breac
 
 This project is licensed under the MIT License. See the [LICENSE.txt](LICENSE.txt) file for details.
 
-The MIT License is a permissive open-source license that allows you to use, modify, and distribute this software for both commercial and non-commercial purposes. You can find more information about the MIT License in the [LICENSE.txt](LICENSE.txt) file.
+The MIT License is a permissive open-source license that allows you to use, modify, and distribute this software for both commercial and non-commercial purposes. You can find more information about the MIT License in the [LICENSE](LICENSE) file.
 
 ## Features
 
@@ -29,4 +29,4 @@ To use this script, follow these steps:
    ```bash
    python check_me.py password1 password2y6546
 
-![Alt Text](https://github.com/iamovi/powerful-password-checker/blob/main/check_me.png)
+![Live Preview](https://github.com/iamovi/powerful-password-checker/blob/main/check_me.png)
